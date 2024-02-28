@@ -1,0 +1,71 @@
+# compiler: R8
+# compiler_version: 2.2.71
+# pg_map_id: ee94eb5
+# common_typos_disable
+com.donut.wx82b43071f528fe3f.BuildConfig -> a.a.a.a:
+    boolean DEBUG -> a
+    java.lang.String BUILD_TYPE -> c
+    java.lang.String LIBRARY_PACKAGE_NAME -> b
+    java.lang.String PLUGIN_ID -> d
+com.donut.wx82b43071f528fe3f.JSONObjectCallBack -> a.a.a.b:
+    org.json.JSONObject parseNetworkResponse(okhttp3.Response,int) -> a
+com.donut.wx82b43071f528fe3f.ServerController -> a.a.a.c:
+    java.lang.String log -> a
+    java.lang.String addApi -> b
+    java.lang.String addDevice(java.lang.String,java.lang.String,java.lang.String,java.lang.String) -> a
+    java.lang.String getAddApi() -> a
+    void setAddApi(java.lang.String) -> a
+    java.lang.String getLog() -> b
+    void setLog(java.lang.String) -> b
+    java.lang.String getPlatformAddress() -> c
+com.donut.wx82b43071f528fe3f.ServerController$addDevice$3 -> a.a.a.c$a:
+    void onResponse(org.json.JSONObject,int) -> a
+com.donut.wx82b43071f528fe3f.TestNativePlugin -> a.a.a.d:
+    java.lang.String GET -> g
+    java.lang.String TAG -> f
+    java.lang.String FILE -> i
+    java.lang.String POST -> h
+    int timeOut -> j
+    int port -> k
+    com.donut.wx82b43071f528fe3f.TestNativePlugin$Companion Companion -> e
+    kotlin.text.Regex regex -> l
+    com.yanzhenjie.andserver.Server server -> m
+    java.lang.String orgName -> a
+    java.lang.String projectId -> c
+    java.lang.String orgId -> b
+    java.lang.String PlatformAddress -> d
+    java.lang.String access$getOrgId$cp() -> a
+    java.lang.String access$getTAG$p(com.donut.wx82b43071f528fe3f.TestNativePlugin) -> a
+    void access$setOrgId$cp(java.lang.String) -> a
+    void request(org.json.JSONObject,kotlin.jvm.functions.Function1) -> a
+    void startService(org.json.JSONObject,android.app.Activity) -> a
+    java.lang.String access$getOrgName$cp() -> b
+    void access$setOrgName$cp(java.lang.String) -> b
+    java.lang.String access$getPlatformAddress$cp() -> c
+    void access$setPlatformAddress$cp(java.lang.String) -> c
+    java.lang.String access$getProjectId$cp() -> d
+    void access$setProjectId$cp(java.lang.String) -> d
+    void stopService() -> e
+com.donut.wx82b43071f528fe3f.TestNativePlugin$Companion -> a.a.a.d$a:
+    java.lang.String getOrgId() -> a
+    void setOrgId(java.lang.String) -> a
+    java.lang.String getOrgName() -> b
+    void setOrgName(java.lang.String) -> b
+    java.lang.String getPlatformAddress() -> c
+    void setPlatformAddress(java.lang.String) -> c
+    java.lang.String getProjectId() -> d
+    void setProjectId(java.lang.String) -> d
+com.donut.wx82b43071f528fe3f.TestNativePlugin$request$2 -> a.a.a.d$b:
+    kotlin.jvm.functions.Function1 $callback -> b
+    com.donut.wx82b43071f528fe3f.TestNativePlugin this$0 -> a
+    void onResponse(org.json.JSONObject,int) -> a
+com.donut.wx82b43071f528fe3f.TestNativePlugin$request$3 -> a.a.a.d$c:
+    kotlin.jvm.functions.Function1 $callback -> b
+    com.donut.wx82b43071f528fe3f.TestNativePlugin this$0 -> a
+    void onResponse(org.json.JSONObject,int) -> a
+com.donut.wx82b43071f528fe3f.TestNativePlugin$request$4 -> a.a.a.d$d:
+    kotlin.jvm.functions.Function1 $callback -> b
+    com.donut.wx82b43071f528fe3f.TestNativePlugin this$0 -> a
+    void onResponse(org.json.JSONObject,int) -> a
+com.donut.wx82b43071f528fe3f.TestNativePlugin$startService$1 -> a.a.a.d$e:
+com.donut.wx82b43071f528fe3f.andserver.plugin.generator.Rrnlnkkdyw -> a.a.a.e.a.a.a:

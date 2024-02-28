@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.donut.plugin</groupId>
+  <artifactId>wx82b43071f528fe3f</artifactId>
+  <version>0.1.4</version>
+  <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>com.zhy</groupId>
+      <artifactId>okhttputils</artifactId>
+      <version>2.6.2</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.blankj</groupId>
+      <artifactId>utilcodex</artifactId>
+      <version>1.31.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.yanzhenjie.andserver</groupId>
+      <artifactId>api</artifactId>
+      <version>2.1.12</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.alibaba.fastjson2</groupId>
+      <artifactId>fastjson2</artifactId>
+      <version>2.0.43</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

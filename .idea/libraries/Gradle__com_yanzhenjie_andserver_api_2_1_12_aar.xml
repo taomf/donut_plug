@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yanzhenjie.andserver:api:2.1.12@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4a6d2b515173b6c6bee52817da2744e5/api-2.1.12/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4a6d2b515173b6c6bee52817da2744e5/api-2.1.12/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4a6d2b515173b6c6bee52817da2744e5/api-2.1.12/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.andserver/api/2.1.12/a2a43b9aa23c3b4a6955c321f3daa323e530a22e/api-2.1.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.andserver/api/2.1.12/d477df8ce4b56648d524188072069e13dad2f28d/api-2.1.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
