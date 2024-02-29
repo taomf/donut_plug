@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.luggage:wxa-standalone-open-runtime-SaaA-plugin-sdk:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e152919c4a72f0b6c0cf5436fdf45728/wxa-standalone-open-runtime-SaaA-plugin-sdk-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e152919c4a72f0b6c0cf5436fdf45728/wxa-standalone-open-runtime-SaaA-plugin-sdk-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e152919c4a72f0b6c0cf5436fdf45728/wxa-standalone-open-runtime-SaaA-plugin-sdk-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

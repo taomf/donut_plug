@@ -14,7 +14,7 @@ buildscript {
 
     ext {
         buildToolsVersion = "29.0.2"
-        minSdkVersion = 26
+        minSdkVersion = 21
         compileSdkVersion = 29
         targetSdkVersion = miniAppConfig.targetSdkVersion
         javaVersion = JavaVersion.VERSION_1_7

@@ -3263,6 +3263,7 @@ int id min 0x0
 int id mini 0x0
 int id miniapp_privacypopup_agree 0x0
 int id miniapp_privacypopup_cancel 0x0
+int id miniapp_privacypopup_content 0x0
 int id miniapp_privacypopup_message 0x0
 int id miniapp_privacypopup_title 0x0
 int id miniapp_privacypopup_view_1 0x0

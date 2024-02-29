@@ -2,7 +2,7 @@ apply from: rootProject.file('gradle/build_library.gradle')
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 apply plugin: 'com.yanzhenjie.andserver'
-
+apply plugin: 'kotlin-kapt'
 
 
 android {
@@ -70,14 +70,14 @@ if (!file("$libsDir/com/tencent/luggage/wxa-standalone-open-runtime-SaaA-plugin-
         api 'com.zhy:okhttputils:2.6.2'
 
 
-        implementation 'com.alibaba.fastjson2:fastjson2:2.0.43'
+        api 'com.alibaba:fastjson:1.2.83'
 
         // Android工具集合
         api 'com.blankj:utilcodex:1.31.1'
 
         //web 服务
         implementation 'com.yanzhenjie.andserver:api:2.1.12'
-        annotationProcessor  'com.yanzhenjie.andserver:processor:2.1.12'
+        kapt  'com.yanzhenjie.andserver:processor:2.1.12'
 
 
         compileOnly("com.tencent.luggage:wxa-standalone-open-runtime-SaaA-plugin-sdk:$saaaSDKVersionDepend") {}
@@ -95,7 +95,8 @@ if (!file("$libsDir/com/tencent/luggage/wxa-standalone-open-runtime-SaaA-plugin-
             "com.zhy:okhttputils":"2.6.2",
             "com.blankj:utilcodex":"1.31.1",
             "com.yanzhenjie.andserver:api":"2.1.12",
-            "com.alibaba.fastjson2:fastjson2":"2.0.43"
+            "com.alibaba:fastjson":"1.2.83",
+            "com.yanzhenjie.andserver:processor":"2.1.12"
     ]
 
 

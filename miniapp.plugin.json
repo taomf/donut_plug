@@ -1,6 +1,6 @@
 {
-  "pluginVersion": "0.1.4",
-  "debugSaaAVersion": "1.0.0",
+  "pluginVersion": "0.1.8",
+  "debugSaaAVersion": "1.0.2",
   "debugWithAar": true,
   "pluginId": "wx82b43071f528fe3f",
   "pluginPackageName": "com.donut.wx82b43071f528fe3f"

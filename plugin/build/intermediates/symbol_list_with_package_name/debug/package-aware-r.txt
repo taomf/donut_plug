@@ -3264,6 +3264,7 @@ id min
 id mini
 id miniapp_privacypopup_agree
 id miniapp_privacypopup_cancel
+id miniapp_privacypopup_content
 id miniapp_privacypopup_message
 id miniapp_privacypopup_title
 id miniapp_privacypopup_view_1

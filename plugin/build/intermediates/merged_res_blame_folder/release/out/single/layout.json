@@ -44,6 +44,10 @@
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\7dc60466fff2a27f07089bc59cbd91c7\\appcompat-1.0.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
+        "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\7dc60466fff2a27f07089bc59cbd91c7\\appcompat-1.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
         "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\7dc60466fff2a27f07089bc59cbd91c7\\appcompat-1.0.0\\res\\layout\\abc_alert_dialog_title_material.xml"
     },

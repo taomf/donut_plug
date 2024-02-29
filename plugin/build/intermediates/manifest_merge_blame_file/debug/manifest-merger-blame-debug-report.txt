@@ -3,7 +3,7 @@
 3    package="com.donut.wx82b43071f528fe3f" >
 4
 5    <uses-sdk
-6        android:minSdkVersion="26"
+6        android:minSdkVersion="21"
 6-->C:\Users\LENOVO\WeChatProjects\miniappplugin-1\android\plugin\src\main\AndroidManifest.xml
 7        android:targetSdkVersion="29" />
 7-->C:\Users\LENOVO\WeChatProjects\miniappplugin-1\android\plugin\src\main\AndroidManifest.xml

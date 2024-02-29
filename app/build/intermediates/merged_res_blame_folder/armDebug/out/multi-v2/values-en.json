@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\app\\build\\intermediates\\incremental\\mergeArmDebugResources\\merged.dir\\values-en\\values-en.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\f9b66c5d0a59bddfabe18a5b09c9d527\\wxa-standalone-open-runtime-SaaA-plugin-sdk-1.0.0\\res\\values-en\\values-en.xml",
+                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\e152919c4a72f0b6c0cf5436fdf45728\\wxa-standalone-open-runtime-SaaA-plugin-sdk-1.0.2\\res\\values-en\\values-en.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

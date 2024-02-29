@@ -16,6 +16,10 @@
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\4e1b6ea25fc381c94244bde719ad5e20\\material-1.0.0\\res\\color\\mtrl_tabs_icon_color_selector_colored.xml"
     },
     {
+        "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\7dc60466fff2a27f07089bc59cbd91c7\\appcompat-1.0.0\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
         "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\design_error.xml",
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\4e1b6ea25fc381c94244bde719ad5e20\\material-1.0.0\\res\\color\\design_error.xml"
     },
@@ -26,6 +30,10 @@
     {
         "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_ripple_color.xml",
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\4e1b6ea25fc381c94244bde719ad5e20\\material-1.0.0\\res\\color\\mtrl_btn_ripple_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\7dc60466fff2a27f07089bc59cbd91c7\\appcompat-1.0.0\\res\\color\\abc_tint_default.xml"
     },
     {
         "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\mtrl_chip_text_color.xml",
@@ -48,12 +56,24 @@
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\4e1b6ea25fc381c94244bde719ad5e20\\material-1.0.0\\res\\color\\mtrl_chip_close_icon_tint.xml"
     },
     {
+        "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\7dc60466fff2a27f07089bc59cbd91c7\\appcompat-1.0.0\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
         "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_text_color_selector.xml",
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\4e1b6ea25fc381c94244bde719ad5e20\\material-1.0.0\\res\\color\\mtrl_btn_text_color_selector.xml"
     },
     {
+        "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\7dc60466fff2a27f07089bc59cbd91c7\\appcompat-1.0.0\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
         "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\mtrl_tabs_legacy_text_color_selector.xml",
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\4e1b6ea25fc381c94244bde719ad5e20\\material-1.0.0\\res\\color\\mtrl_tabs_legacy_text_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\7dc60466fff2a27f07089bc59cbd91c7\\appcompat-1.0.0\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_text_btn_ripple_color.xml",
@@ -70,6 +90,10 @@
     {
         "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\7dc60466fff2a27f07089bc59cbd91c7\\appcompat-1.0.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\4e1b6ea25fc381c94244bde719ad5e20\\material-1.0.0\\res\\color\\design_tint_password_toggle.xml"
     },
     {
         "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\abc_hint_foreground_material_light.xml",
@@ -100,12 +124,20 @@
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\7dc60466fff2a27f07089bc59cbd91c7\\appcompat-1.0.0\\res\\color\\abc_search_url_text.xml"
     },
     {
+        "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\7dc60466fff2a27f07089bc59cbd91c7\\appcompat-1.0.0\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\7dc60466fff2a27f07089bc59cbd91c7\\appcompat-1.0.0\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_bg_color_selector.xml",
         "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\4e1b6ea25fc381c94244bde719ad5e20\\material-1.0.0\\res\\color\\mtrl_btn_bg_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-2\\files-2.1\\7dc60466fff2a27f07089bc59cbd91c7\\appcompat-1.0.0\\res\\color\\abc_tint_edittext.xml"
     },
     {
         "merged": "C:\\Users\\LENOVO\\WeChatProjects\\miniappplugin-1\\android\\plugin\\build\\intermediates\\res\\merged\\release\\color\\mtrl_bottom_nav_colored_item_tint.xml",
