@@ -16,8 +16,7 @@ import okhttp3.MediaType
  */
 @RestController
 class ServerController {
-    var log = "TaomfController"
-    var addApi = "/pm/v2/device/add"
+    private var addApi = "/pm/v2/device/add"
 
     @GetMapping("/getPlatformAddress")
     fun getPlatformAddress(): String {
