@@ -15,8 +15,8 @@ MERGED from [com.blankj:utilcodex:1.31.1] C:\Users\LENOVO\.gradle\caches\transfo
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\2621a8ad7975461dd173dd4f80915b75\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\4e1b6ea25fc381c94244bde719ad5e20\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\cba8ffc05aea58e5b94dca4f528e12c5\okhttputils-2.6.2\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.exifinterface:exifinterface:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\5ffa043b06d7724a65956c0bc4ead175\exifinterface-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.yanzhenjie.andserver:api:2.1.12] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\4a6d2b515173b6c6bee52817da2744e5\api-2.1.12\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\5ffa043b06d7724a65956c0bc4ead175\exifinterface-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\33ba0b5ca73ff4c83c64bfe1d9dba3cb\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\604627059887e187b15ec6b248cf3ca1\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.bumptech.glide:glide:4.10.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\ed72d7d9fa2ee742fcd7f2988d9f02e8\glide-4.10.0\AndroidManifest.xml:2:1-12:12
@@ -95,10 +95,10 @@ MERGED from [com.google.android.material:material:1.0.0] C:\Users\LENOVO\.gradle
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\4e1b6ea25fc381c94244bde719ad5e20\material-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\cba8ffc05aea58e5b94dca4f528e12c5\okhttputils-2.6.2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.zhy:okhttputils:2.6.2] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\cba8ffc05aea58e5b94dca4f528e12c5\okhttputils-2.6.2\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.exifinterface:exifinterface:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\5ffa043b06d7724a65956c0bc4ead175\exifinterface-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\5ffa043b06d7724a65956c0bc4ead175\exifinterface-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.yanzhenjie.andserver:api:2.1.12] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\4a6d2b515173b6c6bee52817da2744e5\api-2.1.12\AndroidManifest.xml:20:5-22:41
 MERGED from [com.yanzhenjie.andserver:api:2.1.12] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\4a6d2b515173b6c6bee52817da2744e5\api-2.1.12\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\5ffa043b06d7724a65956c0bc4ead175\exifinterface-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\5ffa043b06d7724a65956c0bc4ead175\exifinterface-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\33ba0b5ca73ff4c83c64bfe1d9dba3cb\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\33ba0b5ca73ff4c83c64bfe1d9dba3cb\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\604627059887e187b15ec6b248cf3ca1\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41

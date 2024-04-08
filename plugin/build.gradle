@@ -76,7 +76,7 @@ if (!file("$libsDir/com/tencent/luggage/wxa-standalone-open-runtime-SaaA-plugin-
         api 'com.blankj:utilcodex:1.31.1'
 
         //web 服务
-        implementation 'com.yanzhenjie.andserver:api:2.1.12'
+        api 'com.yanzhenjie.andserver:api:2.1.12'
         kapt  'com.yanzhenjie.andserver:processor:2.1.12'
 
 

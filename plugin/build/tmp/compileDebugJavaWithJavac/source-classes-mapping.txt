@@ -1,11 +1,11 @@
-com/donut/wx82b43071f528fe3f/andserver/processor/generator/AdapterRegister.java
- com.donut.wx82b43071f528fe3f.andserver.processor.generator.AdapterRegister
 com/donut/wx82b43071f528fe3f/BuildConfig.java
  com.donut.wx82b43071f528fe3f.BuildConfig
-com/donut/wx82b43071f528fe3f/andserver/plugin/generator/Bcpmfmzola.java
- com.donut.wx82b43071f528fe3f.andserver.plugin.generator.Bcpmfmzola
 com/donut/wx82b43071f528fe3f/ServerControllerAdapter.java
  com.donut.wx82b43071f528fe3f.ServerControllerAdapter
+com/donut/wx82b43071f528fe3f/andserver/plugin/generator/Duecmjmmdw.java
+ com.donut.wx82b43071f528fe3f.andserver.plugin.generator.Duecmjmmdw
+com/donut/wx82b43071f528fe3f/andserver/processor/generator/AdapterRegister.java
+ com.donut.wx82b43071f528fe3f.andserver.processor.generator.AdapterRegister
 com/donut/wx82b43071f528fe3f/ServerControllerGetPlatformAddressHandler.java
  com.donut.wx82b43071f528fe3f.ServerControllerGetPlatformAddressHandler
 com/donut/wx82b43071f528fe3f/ServerControllerAddDeviceHandler.java

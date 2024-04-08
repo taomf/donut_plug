@@ -68,13 +68,21 @@ class TestNativePlugin: NativePluginInterface {
         PlatformAddress = data?.optString("PlatformAddress") ?: ""
 
         timeOut = data?.optInt("timeOut",timeOut) ?: timeOut
-        port = data?.optInt("port") ?: port
+        port = data?.optInt("port",port) ?: port
 
 
         server = AndServer.webServer(context).port(port).timeout(timeOut, TimeUnit.SECONDS)
             .listener(object : Server.ServerListener {
                 override fun onStarted() {
-                    callback("服务开启")
+                    callback("""
+                        |服务开启
+                        |port：$port
+                        |timeOut：$timeOut
+                        |orgName：$orgName
+                        |orgId：$orgId
+                        |projectId：$projectId
+                        |PlatformAddress：$PlatformAddress
+                    """.trimMargin())
                 }
 
                 override fun onStopped() {
