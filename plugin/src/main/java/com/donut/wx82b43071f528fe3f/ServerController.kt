@@ -1,6 +1,5 @@
 package com.donut.wx82b43071f528fe3f
 
-import android.util.Log
 import com.alibaba.fastjson.JSONObject
 import com.blankj.utilcode.util.ToastUtils
 import com.yanzhenjie.andserver.annotation.GetMapping
@@ -9,7 +8,6 @@ import com.yanzhenjie.andserver.annotation.RestController
 import com.zhy.http.okhttp.OkHttpUtils
 import okhttp3.Call
 import okhttp3.MediaType
-import java.lang.Exception
 
 
 /**
