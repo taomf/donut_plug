@@ -33,6 +33,8 @@ class TestNativePlugin: NativePluginInterface {
         var projectId = ""
         /** 分平台地址 **/
         var PlatformAddress = ""
+        var token = ""
+        var domainName = ""
     }
 
 
@@ -66,6 +68,8 @@ class TestNativePlugin: NativePluginInterface {
         orgId = data?.optString("orgId") ?:""
         projectId = data?.optString("projectId") ?:""
         PlatformAddress = data?.optString("PlatformAddress") ?: ""
+        token = data?.optString("token") ?: ""
+        domainName = data?.optString("domainName") ?: ""
 
         timeOut = data?.optInt("timeOut",timeOut) ?: timeOut
         port = data?.optInt("port",port) ?: port
@@ -82,6 +86,8 @@ class TestNativePlugin: NativePluginInterface {
                         |orgId：$orgId
                         |projectId：$projectId
                         |PlatformAddress：$PlatformAddress
+                        |domainName：$domainName
+                        |token：$token
                     """.trimMargin())
                 }
 
@@ -101,8 +107,9 @@ class TestNativePlugin: NativePluginInterface {
      * 关闭web服务
      */
     @AsyncJsApi(methodName = "stopWebService")
-    fun stopService() {
+    fun stopService(data: JSONObject?,callback: (data: String) -> Unit) {
         server?.shutdown()
+        callback("停止服务")
     }
 
 

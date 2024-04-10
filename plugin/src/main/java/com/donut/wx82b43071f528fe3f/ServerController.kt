@@ -1,12 +1,15 @@
 package com.donut.wx82b43071f528fe3f
 
+import android.util.Log
 import com.alibaba.fastjson.JSONObject
+import com.blankj.utilcode.util.ToastUtils
 import com.yanzhenjie.andserver.annotation.GetMapping
 import com.yanzhenjie.andserver.annotation.RequestParam
 import com.yanzhenjie.andserver.annotation.RestController
 import com.zhy.http.okhttp.OkHttpUtils
 import okhttp3.Call
 import okhttp3.MediaType
+import java.lang.Exception
 
 
 /**
@@ -16,8 +19,6 @@ import okhttp3.MediaType
  */
 @RestController
 class ServerController {
-    private var addApi = "/pm/v2/device/add"
-
     @GetMapping("/getPlatformAddress")
     fun getPlatformAddress(): String {
         val jsonObject = JSONObject().apply {
@@ -64,17 +65,22 @@ class ServerController {
         }
 
         OkHttpUtils.postString()
-            .url(TestNativePlugin.PlatformAddress + addApi)
-            .content(data.toString())
+            .url(TestNativePlugin.PlatformAddress + "/pm/v2/device/add")
+            .content(data.toJSONString())
+            .addHeader("Authorization",TestNativePlugin.token)
+            .addHeader("domainName",TestNativePlugin.domainName)
             .mediaType(MediaType.parse("application/json; charset=utf-8"))
-            .build().execute(object : JSONObjectCallBack() {
+            .build().execute(object :JSONObjectCallBack(){
                 override fun onError(call: Call?, e: Exception?, id: Int) {
+                    ToastUtils.showLong("添加失败:${e?.message}")
                 }
+
                 override fun onResponse(response: org.json.JSONObject?, id: Int) {
+                    if (response?.optString("msgCode") != "200"){
+                        ToastUtils.showLong("添加失败:${response?.optString("msgInfo")}")
+                    }
                 }
             })
-
-
 
         return JSONObject().apply {
             this["msgInfo"] = "接口调用成功!"
